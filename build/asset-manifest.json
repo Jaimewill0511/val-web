@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14461e2b.css",
+    "main.js": "/static/js/main.f33aae67.js",
+    "static/media/IMG_0537.JPEG": "/static/media/IMG_0537.1a5077b6a53eace97363.JPEG",
+    "static/media/pandinha_coracao.gif": "/static/media/pandinha_coracao.c511bdfc3a93a0c71369.gif",
+    "static/media/ursinho_chorando.gif": "/static/media/ursinho_chorando.37a403badeef4acbe860.gif",
+    "static/media/ursinhos_bebida.gif": "/static/media/ursinhos_bebida.7110d8658edcb0236333.gif",
+    "static/media/ursinho_pegando_no_sono.gif": "/static/media/ursinho_pegando_no_sono.9c279e4d65113133d3a9.gif",
+    "static/media/ursinho_S2_pandinha.gif": "/static/media/ursinho_S2_pandinha.f87f042b524ca9a24a6e.gif",
+    "static/media/ursinhos_apaixonados.gif": "/static/media/ursinhos_apaixonados.98d13c4d9101237fedb0.gif",
+    "static/media/ursinhos_dormindo.gif": "/static/media/ursinhos_dormindo.dde6eebe849dc5dad488.gif",
+    "static/media/ursinha_chorando.gif": "/static/media/ursinha_chorando.0cf9c766cffd5c152c65.gif",
+    "static/media/pandinha.gif": "/static/media/pandinha.0884d33df00f05529312.gif",
+    "static/media/ursinho_pandinha_ok.gif": "/static/media/ursinho_pandinha_ok.8b52d30f03e892dcefbc.gif",
+    "static/media/ursinhos_fotinha.jpg": "/static/media/ursinhos_fotinha.0b5e95ffa72d2124c6f6.jpg",
+    "static/media/ursinhos_caminhada.jpg": "/static/media/ursinhos_caminhada.777b9764e3449ce27770.jpg",
+    "static/media/ursinho_estudando.gif": "/static/media/ursinho_estudando.7a63bcfeabcab0df6089.gif",
+    "index.html": "/index.html",
+    "main.14461e2b.css.map": "/static/css/main.14461e2b.css.map",
+    "main.f33aae67.js.map": "/static/js/main.f33aae67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14461e2b.css",
+    "static/js/main.f33aae67.js"
+  ]
+}
