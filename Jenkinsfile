@@ -6,7 +6,7 @@ pipeline {
             steps {
                 // Checkout the code from GitHub repository
                 git branch: 'main',
-                    url: 'git@github.com:yourusername/yourrepository.git'
+                    url: 'git@github.com:Jaimewill0511/val-web.git'
             }
         }
         stage('Build') {
