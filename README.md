@@ -7,7 +7,7 @@ This project is a website that I created for my girlfriend as part of the Valent
 <br />
 <br />
 
-## :computer: Technologies Used
+## :computer: Technologies Use
 
 This project has the following technologies:
 
