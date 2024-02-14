@@ -17,7 +17,7 @@ This project has the following technologies:
 - [Sass](https://sass-lang.com/)
 <br />
 
-## :mortar_board: The Idea
+## :mortar_board: The Id
 
 I was thinking about how to present my girlfriend on Valentine's Day, but it couldn't be any gift. It should be something unique, something that my girlfriend had never done for her, at the same time it should be original, something I would put together.
 
