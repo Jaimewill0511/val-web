@@ -12,7 +12,7 @@ pipeline {
         stage('Build') {
             steps {
                 // Example build step, you can replace this with your actual build commands
-                echo "Its working"
+                echo "Its working?"
             }
         }
         // Add more stages as needed
